@@ -8,9 +8,11 @@
 [Twitter @MoiMadhumita](https://twitter.com/MoiMadhumita)
 [Instagram @madhumitamoi](https://www.instagram.com/madhumitamoi/)
 
-<img align="left" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+
 
 ![enter image description here](https://github-readme-stats.vercel.app/api?username=Madhumitamoi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
+<img align="left" alt="Coder GIF" height=400 width=500 src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" />
 
 
 <p align="left"> <a href="https://twitter.com/moimadhumita" target="blank"><img src="https://img.shields.io/twitter/follow/moimadhumita?logo=twitter&style=for-the-badge" alt="moimadhumita" /></a> </p>
@@ -26,10 +28,8 @@
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/madhumoi0266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/madhumoi0266" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/madhumitamoi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/madhumitamoi/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/madhumoi0266/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/madhumoi0266/profile" height="30" width="40" /></a>
+<a href="https://medium.com/@madhumoi0266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@madhumoi0266" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhumitamoi&show_icons=true&locale=en&layout=compact" alt="madhumitamoi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhumitamoi&show_icons=true&locale=en" alt="madhumitamoi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhumitamoi&" alt="madhumitamoi" /></p>
