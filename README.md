@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning DSA, web development.
 - 💞️ I’m looking to collaborate on projects which can enhance my skills.
 - 📫 How to reach me [LinkedIn @MadhumitaMoi](https://www.linkedin.com/in/madhumita-moi/)
-[Twitter @MoiMadhumita](https://twitter.com/MoiMadhumita)
+[Twitter @Madhumita_Moi](https://twitter.com/Madhumita_Moi)
 [Instagram @madhumitamoi](https://www.instagram.com/madhumitamoi/)
 
 
