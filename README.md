@@ -4,15 +4,22 @@
 - 👀 I’m interested in Coding, Computer science, Electronics and research in this field.
 - 🌱 I’m currently learning DSA, web development.
 - 💞️ I’m looking to collaborate on projects which can enhance my skills.
-- 📫 How to reach me [LinkedIn @MadhumitaMoi](https://www.linkedin.com/in/madhumita-moi/)
+- 📫 How to reach me 
+- [LinkedIn @MadhumitaMoi](https://www.linkedin.com/in/madhumita-moi/)
+
 [Twitter @Madhumita_Moi](https://twitter.com/Madhumita_Moi)
+
 [Instagram @madhumitamoi](https://www.instagram.com/madhumitamoi/)
 
 
 
 ![enter image description here](https://github-readme-stats.vercel.app/api?username=Madhumitamoi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
+
+
 <img align="left" alt="Coder GIF" height=400 width=500 src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" />
+
+
 
 
 <p align="left"> <a href="https://twitter.com/moimadhumita" target="blank"><img src="https://img.shields.io/twitter/follow/moimadhumita?logo=twitter&style=for-the-badge" alt="moimadhumita" /></a> </p>
