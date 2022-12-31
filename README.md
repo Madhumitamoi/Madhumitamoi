@@ -11,14 +11,11 @@
 
 [Instagram @madhumitamoi](https://www.instagram.com/madhumitamoi/)
 
+<img align="left" alt="Coder GIF" height=300 width=800 src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" />
+
 
 
 ![enter image description here](https://github-readme-stats.vercel.app/api?username=Madhumitamoi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-
-
-
-<img align="left" alt="Coder GIF" height=400 width=500 src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" />
-
 
 
 
