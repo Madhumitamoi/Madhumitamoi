@@ -5,11 +5,11 @@
 - 🌱 I have an unwavering passion for System design, driven by a desire to push the boundaries of what is possible in this exciting field. I am deeply passionate about the intricacies of designing and building complex systems that can perform a multitude of tasks with ease and efficiency.
 - 💞️ I am open to working with others who share my passion for innovation and creativity. Together, we can explore new possibilities and push the boundaries of what is possible in these exciting fields.
 - 📫 How to reach me 
-- [LinkedIn @MadhumitaMoi](https://www.linkedin.com/in/madhumita-moi/)
 
-[Twitter @Madhumita_Moi](https://twitter.com/Madhumita_Moi)
+[LinkedIn @MadhumitaMoi](https://www.linkedin.com/in/madhumita-moi/) || [Twitter @Madhumita_Moi](https://twitter.com/Madhumita_Moi) ||  [Instagram @madhumitamoi](https://www.instagram.com/madhumitamoi/)
 
-[Instagram @madhumitamoi](https://www.instagram.com/madhumitamoi/)
+
+
 
 <img align="left" alt="Coder GIF" height=300 width=450 src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" />
 
@@ -20,6 +20,12 @@
 
 
 <p align="left"> <a href="https://twitter.com/Madhumita_Moi" target="blank"><img src="https://img.shields.io/twitter/follow/Madhumita_Moi?logo=twitter&style=for-the-badge" alt="Madhumita_Moi" /></a> </p>
+
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
