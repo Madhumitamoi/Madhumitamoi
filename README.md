@@ -3,7 +3,7 @@
 - 👋 I have a keen interest in the fields of coding, computer science, electronics, and research, and I am constantly seeking ways to expand my knowledge and skills in these domains.
 - 👀  At present, I am actively engaged in learning DSA (Data Structures and Algorithms) as well as web development, with the goal of becoming proficient in these areas.
 - 🌱 I have an unwavering passion for System design, driven by a desire to push the boundaries of what is possible in this exciting field. I am deeply passionate about the intricacies of designing and building complex systems that can perform a multitude of tasks with ease and efficiency.
-- 💞️ I am open to working with others who share my passion for innovation and creativity. Together, we can explore new possibilities and push the boundaries of what is possible in these exciting fields.
+- 💞️ I am open to working with others who share my passion for innovation and creativity.
 - 📫 How to reach me 
 
 [LinkedIn @MadhumitaMoi](https://www.linkedin.com/in/madhumita-moi/) || [Twitter @Madhumita_Moi](https://twitter.com/Madhumita_Moi) ||  [Instagram @madhumitamoi](https://www.instagram.com/madhumitamoi/)
