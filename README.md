@@ -1,4 +1,7 @@
-### Hey! This is Madhumita Moi
+
+<img src="https://github.com/Madhumitamoi/GGH/blob/main/standard.gif" alt="Alt Text" width="950" height="150" />
+
+
 
 - 👋 I have a keen interest in the fields of coding, computer science, electronics, and research, and I am constantly seeking ways to expand my knowledge and skills in these domains.
 - 👀  At present, I am actively engaged in learning DSA (Data Structures and Algorithms) as well as web development, with the goal of becoming proficient in these areas.
