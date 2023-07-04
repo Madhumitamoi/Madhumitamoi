@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Madhumitamoi/GGH/blob/main/standard.gif" alt="Alt Text" width="950" height="150" />
+<img src="https://github.com/Madhumitamoi/Gifs/blob/main/Gifs/standard.gif" alt="Alt Text" width="950" height="150" />
 
 
 
