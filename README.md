@@ -15,10 +15,33 @@
 [LinkedIn](https://www.linkedin.com/in/madhumita-moi/) | [Twitter](https://twitter.com/Madhumita_Moi) | [Instagram](https://www.instagram.com/madhumitamoi/)
 <p align="center"><img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="Coder GIF" height="300" width="450" /></p>
 
+<div align="center">
 
-## GitHub Stats
+  
+### Contributions
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhumitamoi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Madhumitamoi&theme=monokai&hide_border=true&fire=DD2727" alt="Madhumita Moi" />
+</div>
+<hr/>
+<div align="center">
+ 
+ ### GitHub Stats
+
+ <img  alt="Madhumita's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Madhumitamoi&show_icons=true&hide_border=true&theme=monokai&hide_border=true&fire=DD2727" />
+
+</div>
+<div align="center">
+ <hr/>
+
+### Productivity Stats
+
+
+ ![Madhumita Moi's Productivity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Madhumitamoi&theme=monokai)
+
+</div>
+<br/>
+<div align="center">
+ <hr/>
 
 ## Social Media
 
