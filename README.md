@@ -4,9 +4,9 @@
 
 ## About Me
 
-- 👋 I have a keen interest in the fields of coding, computer science, electronics, and research, and I am constantly seeking ways to expand my knowledge and skills in these domains.
-- 👀  At present, I am actively engaged in learning DSA (Data Structures and Algorithms) as well as web development, with the goal of becoming proficient in these areas.
-- 🌱 I have an unwavering passion for System design, driven by a desire to push the boundaries of what is possible in this exciting field. I am deeply passionate about the intricacies of designing and building complex systems that can perform a multitude of tasks with ease and efficiency.
+- 👋 I have a keen interest in coding, computer science, electronics, and research, and I am constantly seeking ways to expand my knowledge and skills in these domains.
+- 👀  At present, I am actively learning DSA (Data Structures and Algorithms) and web development, aiming to become proficient in these areas.
+- 🌱 I have an unwavering passion for System design, driven by a desire to push the boundaries of what is possible in this exciting field. I am deeply passionate about the intricacies of designing and building complex systems that can perform many tasks with ease and efficiency.
 - 💞️ I am open to working with others who share my passion for innovation and creativity.
 
   
@@ -58,6 +58,4 @@
   <a href="https://medium.com/@madhumoi0266" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
 </p>
 
-## GitHub Streak
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=madhumitamoi" alt="GitHub Streak" /></p>
