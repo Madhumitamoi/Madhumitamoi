@@ -4,8 +4,8 @@
 
 ## About Me
 
-- 👋 I have a keen interest in coding, computer science, electronics, and research, and I am constantly seeking ways to expand my knowledge and skills in these domains.
-- 👀  At present, I am actively learning DSA (Data Structures and Algorithms) and web development, aiming to become proficient in these areas.
+- 👋 I am keenly interested in coding, Software Engineering, computer science, electronics, and research, and I am constantly seeking ways to expand my knowledge and skills in these domains.
+- 👀  At present, I am actively involved in the SDE Internship, getting my hands-on experience with all the learnings in DSA (Data Structures and Algorithms) and web development, aiming to become proficient in these areas.
 - 🌱 I have an unwavering passion for System design, driven by a desire to push the boundaries of what is possible in this exciting field. I am deeply passionate about the intricacies of designing and building complex systems that can perform many tasks with ease and efficiency.
 - 💞️ I am open to working with others who share my passion for innovation and creativity.
 
